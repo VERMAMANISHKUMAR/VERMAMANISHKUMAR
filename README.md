@@ -1,4 +1,4 @@
-# Hi there, I'm Manish Kumar 👋
+# Hi there, I'm Manish Kumar Verma 👋
 I am a software developer specializing in web development and proficient in various programming languages and frameworks.
 ## About Me
 
