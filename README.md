@@ -25,6 +25,9 @@ A passionate full-stack developer with a love for creating comprehensive web sol
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code]([https://img.shields.io](https://img.shields.io/github/:variant/:user/ChatGPT%20/latest/total)/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 
 ## GitHub Stats
 
