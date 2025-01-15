@@ -1,6 +1,6 @@
 # Hi there, I'm Manish Kumar 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=VERMAMANISHKUMAR&color=blue)
+![Profile Views](https://vermamanishkumar.github.io/My-Portfolio/?username=VERMAMANISHKUMAR&color=blue)
 
 ## About Me
 
@@ -36,9 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VERMAMANISHKUMAR&layout=compact&theme=radical)
 
-## Connect with Me
-
-## Connect with Me
 
 ## Connect with Me
 
