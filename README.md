@@ -1,5 +1,5 @@
 # Hi there, I'm Manish Kumar Verma 👋
-I am a software developer specializing in web development and proficient in various programming languages and frameworks.
+A passionate full-stack developer with a love for creating comprehensive web solutions, my journey in tech has taken me from frontend design to backend logic.
 ## About Me
 
 - 🌱 I’m currently learning **[Your current learning topic]**
