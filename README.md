@@ -1,7 +1,5 @@
 # Hi there, I'm Manish Kumar 👋
 
-![Profile Views](https://vermamanishkumar.github.io/My-Portfolio/?username=VERMAMANISHKUMAR&color=blue)
-
 ## About Me
 
 - 🌱 I’m currently learning **[Your current learning topic]**
