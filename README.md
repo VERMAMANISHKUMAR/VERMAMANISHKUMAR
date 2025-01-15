@@ -1,5 +1,5 @@
 # Hi there, I'm Manish Kumar 👋
-
+I am a software developer specializing in web development and proficient in various programming languages and frameworks.
 ## About Me
 
 - 🌱 I’m currently learning **[Your current learning topic]**
