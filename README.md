@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I love creating, collaborating, and sharing knowle
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can solve a Rubik’s cube in under a minute!
 🌟 My Skills and Tools
-
+https://img.shields.io/badge/:badgeContent
 
 📈 My Learning Journey
 
