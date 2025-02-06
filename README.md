@@ -2,7 +2,7 @@
 A passionate full-stack developer with a love for creating comprehensive web solutions, my journey in tech has taken me from frontend design to backend logic.
 ## About Me
 
-- 🌱 I’m currently learning **[Your current learning topic]**
+- 🌱 I’m currently learning **Prompt engineering**
 - 👯 I’m looking to collaborate on **[Your collaboration interests]**
 - 🤔 I’m looking for help with **[Topics you need help with]**
 - 💬 Ask me about **[Your expertise or interests]**
